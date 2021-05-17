@@ -1,4 +1,4 @@
-Android App
+Android Java Application
 # MagicIDApplication
 Get information from South African ID 
 
